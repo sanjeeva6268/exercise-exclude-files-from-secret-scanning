@@ -1,5 +1,5 @@
 node_modules/
-# Ignoring directories
-# Both the directory itself and its contents will be ignored.
 dist/
 docs/
+# Ignoring directories
+# Both the directory itself and its contents will be ignored.
